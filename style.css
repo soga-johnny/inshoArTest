@@ -1,6 +1,14 @@
 h2 {
     font-size: 40px;
 }
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 40px;
+    background-color: rgba(161, 132, 86, 0.172);
+}
 .modelViewer {
     width: 100%;
     height: 600px;
